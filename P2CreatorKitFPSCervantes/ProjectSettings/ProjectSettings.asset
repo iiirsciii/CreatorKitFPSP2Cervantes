@@ -968,7 +968,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: P2CreatorKitFPSCervantes
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -976,7 +976,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: P2CreatorKitFPSCervantes
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: P2CreatorKitFPSCervantes
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -1055,7 +1055,7 @@ PlayerSettings:
   cloudProjectId: 0e708048-a92d-423d-9fb6-6254654077aa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: P2CreatorKitFPSCervantes
   organizationId: unity_722997
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
